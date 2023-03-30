@@ -1,4 +1,3 @@
 # Github Flavoured Markdown
 
-## https://help.github.com/en
-
+## [Github Help](https://help.github.com/en)
