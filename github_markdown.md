@@ -14,3 +14,7 @@
 |  n	|  i	|  x	|  	|  	|
 |  k	|  	a|  	p|  i	|  sch	|
 | heidewitzka 	|  	jabba|  dabba	| duh	| 	|
+
+
+- [ ] unchecked
+- [x] checked
